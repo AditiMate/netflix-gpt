@@ -36,6 +36,9 @@
 -TMDB Image CDN URL
 -Made the Browse page amazing with Tailwind CSS
 -usePopularMovies Custom Hook
+-useUpcomingMovies Custom Hook
+-useTopRatedMovies Custom Hook
+
 
 
 * MainContainer
