@@ -29,7 +29,7 @@
 -Fetch Data for Trailer Video
 -Update Store with Trailer Video Data
 -Embedded the Youtube video and made it autoplay and mute 
--Tailwind Classe to make Main Container look awesome
+-Tailwind CSS to make Main Container look awesome
 -Build Secondary Component 
 -Build Movie List
 -Build Movie Card
@@ -38,6 +38,10 @@
 -usePopularMovies Custom Hook
 -useUpcomingMovies Custom Hook
 -useTopRatedMovies Custom Hook
+-> GPT Search Feature
+    -GPT search Page
+    -GPT search Bar
+    -(*) Multi-language Feature in GPT Search page
 
 
 
